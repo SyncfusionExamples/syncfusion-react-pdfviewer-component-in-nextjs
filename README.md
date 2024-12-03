@@ -1,8 +1,8 @@
 # Getting Started with React UI Components using Next.js
  
-This application demonstrates the usage of the Syncfusion&reg;React pdfviewer component in Next.js.
+This application demonstrates the usage of the Syncfusion&reg; React pdfviewer component in Next.js.
  
-To know how to configure the Syncfusion&reg;React pdfviewer component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/pdfviewer/nextjs-getting-started).
+To know how to configure the Syncfusion&reg; React pdfviewer component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/pdfviewer/nextjs-getting-started).
  
 ## Clone the repository
  
