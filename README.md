@@ -1,8 +1,8 @@
 # Getting Started with React UI Components using Next.js
  
-This application demonstrates the usage of the Syncfusion&reg; React pdfviewer component in Next.js.
+This application demonstrates the usage of the React pdfviewer component in Next.js.
  
-Next.js is a React framework that makes it easy to build fast, SEO-friendly, and user-friendly web applications. It provides features such as server-side rendering, automatic code splitting, routing, and API routes, making it an excellent choice for building modern web applications. To know how to configure the Syncfusion&reg; React pdfviewer component in Next.js, refer to the [documentation](https://help.syncfusion.com/document-processing/pdf/pdf-viewer/react/depoyment-integration/nextjs-getting-started).
+Next.js is a React framework that makes it easy to build fast, SEO-friendly, and user-friendly web applications. It provides features such as server-side rendering, automatic code splitting, routing, and API routes, making it an excellent choice for building modern web applications. To know how to configure the React pdfviewer component in Next.js, refer to the [documentation](https://help.syncfusion.com/document-processing/pdf/pdf-viewer/react/depoyment-integration/nextjs-getting-started).
 
 ## Prerequisites
 
